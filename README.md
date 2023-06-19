@@ -20,3 +20,13 @@ O arquivo chamado **'Exemplo_Morfologia.ipynb'** carrega um código cuja finalid
 - Em seguida o fechamento na imagem 'j_furos.png'. Os resultados são armazenados em 'closing'.
 
 - No final há a exibição visual das imagens resultantes das operações morfológicas.
+
+Result:
+[[ 1  1  1  1  1]
+ [ 1  1  1  1  1]
+ [ 1  1  1  1  1]
+ [ 1  1  1  1  1]
+ [ 1  1  1  1  1]]
+
+![1](https://github.com/jrafaelcampoi/tutorial-python/assets/42501597/05adbc7e-f09e-43b5-b0ab-c228983be505)
+
