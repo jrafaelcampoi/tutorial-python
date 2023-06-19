@@ -21,12 +21,4 @@ O arquivo chamado **'Exemplo_Morfologia.ipynb'** carrega um código cuja finalid
 
 - No final há a exibição visual das imagens resultantes das operações morfológicas.
 
-Result:
-[[ 1  1  1  1  1]
- [ 1  1  1  1  1]
- [ 1  1  1  1  1]
- [ 1  1  1  1  1]
- [ 1  1  1  1  1]]
-
-![1](https://github.com/jrafaelcampoi/tutorial-python/assets/42501597/05adbc7e-f09e-43b5-b0ab-c228983be505)
-
+Resultado no Google Colab
